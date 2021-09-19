@@ -1,0 +1,19 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/thedashcoder",
+    "git_url": "https://instagram.com/shaleen3",
+    "fb_url": "https://fb.com",
+    "tw_url": "https://twitter.com",
+    "blog_name": "The Dash Coder",
+    "blog_tittle": "Blog liked by the Programmers",
+    "gmail_userid": "sp16.try@gmail.com",
+    "gmail_pass": "shaleenp3",
+    "about_text": "Hi my Name is Shaleen. I am the founder of this website.",
+    "no_of_post" : 2,
+    "admin_user" : "shaleen",
+    "admin_password" : "shaleenp3",
+    "upload_location": "D:\\FlaskW\\static"
+  }
+
+}
